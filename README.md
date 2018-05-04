@@ -3,6 +3,8 @@ Welcome to GitHub,  Suhas!
 
 Adding in more text from the first branch I created called, first-branch
 
-These changes need to be saved and are called commits in Git terms.
+The changes from the first-branch were merged into the master branch.
 
-Added in one more line to the Readme file
+This repo was cloned lcoally using git cli and a new branch, second-branch was created.
+
+
